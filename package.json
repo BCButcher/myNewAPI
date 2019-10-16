@@ -1,0 +1,15 @@
+{
+  "name": "myNewAPI",
+  "verion": "0.0.1",
+  "description": "Wicked awesome API test",
+  "author": "Brian Butcher <butcher.brian.c@gmail.com",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  },
+  "scripts": {
+    "zip": "zip -r ../myNewAPI.zip *"
+  }
+}
